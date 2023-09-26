@@ -81,3 +81,8 @@ It calculates NHIF deductions using calculateNHIF().
 It calculates NSSF deductions using calculateNSSF().
 It calculates the net salary by subtracting Payee, NHIF deductions, and NSSF deductions (employee portion) from the gross salary.
 Finally, it displays the results including Gross Salary, Payee (Tax), NHIF Deductions, NSSF Deductions (Employee), and Net Salary in the console.
+
+References:
+ https://www.aren.co.ke/payroll/taxrates.htm.
+
+- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye.
